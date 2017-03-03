@@ -1,0 +1,42 @@
+.contentLisbon1 {
+    padding:20px; 
+    overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+
+.lisbon2 img {
+	float: left;
+    display: block;
+	padding: 20px;
+}
+.LisbonContent {
+    padding: 20px;
+}
+.WhyLisbon {
+    font-weight: bold;
+	padding: 20px;
+}
+
+.contentLisbon2 {
+    padding:20px; 
+    overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.lisbon7 img {
+	float: right;
+    display: block;
+	padding: 20px;
+}
+.LisbonContent1 p{
+    padding: 20px;
+}
+.KnowLisbon {
+    font-weight: bold;
+	padding: 20px;
+}
+.lisbon21 img {
+	float: left;
+    display: block;
+	padding: 20px;
+}

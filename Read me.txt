@@ -1,0 +1,3 @@
+Environment: XHTML Strict, CSS
+Entry point: index.html
+Project: A web page to provide information for American tourists about the city of Lisbon, Portugal.

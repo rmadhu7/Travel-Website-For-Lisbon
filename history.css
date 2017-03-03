@@ -1,0 +1,24 @@
+.contentLisbon1 {
+    padding:20px; 
+    overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.lisbon22 img {
+	float: right;
+    display: block;
+	padding: 20px;
+}
+.lisbon24 img {
+	float: left;
+    display: block;
+	padding: 20px;
+}
+.LisbonContent p{
+    padding: 20px;
+}
+.lisbon23 img {
+	float: right;
+    display: block;
+	padding: 20px;
+}

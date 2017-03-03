@@ -1,0 +1,55 @@
+.contentLisbonArch {
+    padding:20px; 
+    overflow: auto;
+	font-family: Arial, Helvetica, sans-serif;
+	}
+
+.lisbon25 img {
+	float: left;
+    display: block;
+	padding: 20px;
+}
+.LisbonContentArch {
+    padding: 20px;
+}
+.arch2 {
+    font-weight: bold;
+	padding: 20px;
+}
+.lisbon26 img {
+	float: right;
+    display: block;
+	padding: 20px;
+}
+.lisbon27 img {
+	float: left;
+    display: block;
+	padding: 20px;
+}
+.lisbonMap1 img {
+	float: right;
+    display: block;
+	padding: 10px;
+}
+.arch3{
+    font-weight: bold;
+	padding: 20px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#list1 ul {
+    padding: 10px;
+    }
+#list1 li {
+    padding: 10px;
+	margin-left:40px;
+	font-family: Arial, Helvetica, sans-serif;
+    }
+#list1 a {
+    text-decoration: none;
+    font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 10px;
+    color:  #191970;
+    }

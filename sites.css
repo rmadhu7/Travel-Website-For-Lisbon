@@ -1,0 +1,23 @@
+.KnowLisbon1 {
+    font-weight: bold;
+	padding: 20px;
+	text-align:center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#mustseetable {
+    padding: 20px;
+    }
+#mustseetable table
+    {
+	border-spacing: 0;
+    margin: auto;
+    border-collapse: collapse;
+	font-family: Arial, Helvetica, sans-serif;
+    }
+#mustseetable td{
+	padding: 20px;
+	}
+
+#mustseetable tr{
+	padding: 10px;
+}
